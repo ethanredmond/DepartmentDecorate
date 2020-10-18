@@ -1,1 +1,23 @@
+#landing {background-color: black}
+
+#pair {background-color: black; color: yellow; font-family: cursive;}
+
+.navigation {color: white}
+
+li {font-family: fantasy}
+
+#StudioArt {background-color:aqua; color: darkgoldenrod; font-size: 20}
+.program {color: darkgoldenrod; font-family: sans-serif}
+.Art {color: white}
+
+#Economics {background-color: royalblue; color: aquamarine; font-family: sans-serif; font-size: 20}
+
+#Politics {background-color: black; color: antiquewhite; font-family: sans-serif; font-size: 20}
+
+#ComputerScience {background-color: lawngreen; font-size: 20}
+.Computer {color: floralwhite; font-family: sans-serif}
+
+.Math {color: white}
+#Mathematics {background-color: blueviolet; color: aquamarine; font-size: 20}
+.tab {color: black}
 
